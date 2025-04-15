@@ -7,8 +7,8 @@
 <br/>
 
 <h3>🌐 Socials :</h3>
-<a href="https://instagram.com/sahand.m.t"><img src="https://github.com/sahand-mahdilu/sahand-mahdilu/blob/main/icons8-instagram-96.png?raw=true"/></a>
-<a href="https://t.me/sahand_m_t"><img src="https://github.com/sahand-mahdilu/sahand-mahdilu/blob/main/icons8-telegram-96.png?raw=true"/></a>
+<a href="https://instagram.com/sahand.m.t"><img src="https://github.com/sahand-mahdilu/sahand-mahdilu/blob/main/icons8-instagram-96.png?raw=true" width="80px" hight="80px"/></a>
+<a href="https://t.me/sahand_m_t"><img src="https://github.com/sahand-mahdilu/sahand-mahdilu/blob/main/icons8-telegram-96.png?raw=true" width="80px" hight="80px"/></a>
 
 
 <h2>💻 Tech Stack :</h2>
@@ -44,17 +44,18 @@
    	![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 
-<!--
-**sahand-mahdilu/sahand-mahdilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<h2>⚡ Git hub Stats :</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/sahand-mahdilu">
+<img src="https://github-readme-stats.vercel.app/api?username=sahand-mahdilu&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahand-mahdilu&layout=donut"/>
+</a>
+
+
+    
+
+    
+
+
