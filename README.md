@@ -7,6 +7,7 @@
 <br/>
 
 <h3>🌐 Socials :</h3>
+<a href="https://instagram.com/sahand.m.t"><img src="https://github.com/sahand-mahdilu/sahand-mahdilu/blob/main/icons8-instagram-96.png?raw=true"/></a>
 
 
 <h2>💻 Tech Stack :</h2>
