@@ -9,6 +9,7 @@
 <h3>🌐 Socials :</h3>
 <a href="https://instagram.com/sahand.m.t"><img src="https://github.com/sahand-mahdilu/sahand-mahdilu/blob/main/icons8-instagram-96.png?raw=true" width="80px" hight="80px"/></a>
 <a href="https://t.me/sahand_m_t"><img src="https://github.com/sahand-mahdilu/sahand-mahdilu/blob/main/icons8-telegram-96.png?raw=true" width="80px" hight="80px"/></a>
+<a href="https://www.linkedin.com/in/sahand-mahdilu-torkamani-903309363/"><img src="https://github.com/sahand-mahdilu/sahand-mahdilu/blob/main/icons8-linkedin-96.png?raw=true" width="80px" hight="80px"/></a>
 
 
 <h2>💻 Tech Stack :</h2>
